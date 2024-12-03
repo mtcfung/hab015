@@ -1,0 +1,28 @@
+<input type="radio" id="radiobox_1_comp.option1" name="radiobox_1_comp" value="option1">
+
+
+
+new add field
+HKnumOfParticipants1224
+HKnumOfParticipants2535
+TOTALHKnumOfParticipants1235
+
+DoubleSidenumWorkers
+ApplyDoubleSidenumWorkers
+
+
+EstimatedExpense<<<<< ApplyAmount (old fied) changed to 
+Q19ivTitleNew2024
+Q19ivTitleNew2024OptionANumber
+Q19ivTitleNew2024OptionADName
+Q19ivTitleNew2024ivB
+Q20Option2024
+
+
+
+
+
+{/*console.log( "inside IF " + asia) console.log( "inside IF before calculation  " + asia)*/}
+
+
+

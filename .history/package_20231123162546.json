@@ -1,0 +1,34 @@
+{
+    "name": "FORM",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "govhk-form-core start",
+        "build": "govhk-form-core build",
+        "build:client": "govhk-form-core build:clientonly",
+        "update:core": "npm install govhk-form-core"
+    },
+    "author": "e-Form Support Team, OGCIO",
+    "license": "ISC",
+    "dependencies": {
+        "govhk-form-core": "git+https://gitlab.com/govhk-form/govhk-form-core.git#v1.5",
+        "prop-types": "15.6.1",
+        "react": "16.4.2",
+        "react-dom": "16.4.2"
+    },
+    "eslintConfig": {
+        "extends": "./node_modules/govhk-form-core/formScripts/eslintrc.json"
+    },
+    "title": {
+        "en": "2024-25年度「國際青年交流資助計劃」申請表格",
+        "zh-CN": "NIL",
+        "zh-HK": "2024-25年度「國際青年交流資助計劃」申請表格（此表格不提供簡體中文及英文內容）"
+    },
+    "shortTitle": {
+        "en": "SForm",
+        "zh-CN": "简表",
+        "zh-HK": "簡表"
+    },
+    "formId": "HAB015",
+    "formUrl": "hab015",
+    "formVersion": "001"
+}
